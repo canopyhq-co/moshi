@@ -1,0 +1,4 @@
+version: 1
+product: json-library
+owners:
+  - {name: E2E Owner, email: e2e-owner@example.com}
