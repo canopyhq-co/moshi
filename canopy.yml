@@ -1,4 +1,5 @@
 version: 1
 product: json-library
+production_branch: master
 owners:
   - {name: E2E Owner, email: e2e-owner@example.com}
